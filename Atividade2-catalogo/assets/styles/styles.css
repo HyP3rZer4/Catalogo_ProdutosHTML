@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+h1{
+    margin: 20px;
+}
+
+h3{
+    margin: 10px;
+}
+
+.table th, .table td{
+    padding: 5px;
+    text-align: center;
+}
+
+.cb{
+    margin: 10px;
+}
+
+.lista{
+    margin-top: 20px;
+}
+.lista dd{
+    margin-left: 25px;
+}
